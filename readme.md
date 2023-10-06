@@ -5,8 +5,8 @@ This is an official implementation of the paper Numerical reliability of nonsmoo
 ## Dependencies
 
 - [pytorch](https://pytorch.org) 
-- optuna
 - torchvision
+- optuna
 
 
 ## 📂 Repository Structure
