@@ -1,6 +1,6 @@
 # Numerical reliability of nonsmooth autodiff : a MaxPool case study
 
-Explore the numerical reliability in nonsmooth automatic differentiation through MaxPooling operations in this repository. Please cite the paper and star this repo if you find this useful. Thanks!
+This is an official implementation of the paper Numerical reliability of nonsmooth autodiff : a MaxPool case study. Please cite the paper and star this repo if you find this useful. Thanks!
 
 ## Dependencies
 
