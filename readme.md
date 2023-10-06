@@ -2,6 +2,13 @@
 
 Explore the numerical reliability in nonsmooth automatic differentiation through MaxPooling operations in this repository.
 
+## Dependencies
+
+- [pytorch](https://pytorch.org) 
+- optuna
+- torchvision
+
+
 ## 📂 Repository Structure
 
 ### 🎈 Introduction experiment
