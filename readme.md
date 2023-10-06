@@ -4,9 +4,8 @@ Explore the numerical reliability in nonsmooth automatic differentiation through
 
 ## 📂 Repository Structure
 
-- **[Results](results)**: Data from experiments.
-- **[Notebooks](notebooks)**: Notebook for experiments.
-- **Experiments Code**: Training experiments.
+### 🎈 Introduction experiment
+- [Notebook](notebooks/first_xp.ipynb)
 
 ### 🎨 Figures
 
@@ -16,9 +15,6 @@ Explore the numerical reliability in nonsmooth automatic differentiation through
 - **Threshold analysis**: [Notebook](notebooks/threshold.ipynb)
 - **Volume estimation**: [Notebook](notebooks/volume_estimation_by_architecture.ipynb)
 
-
-### 🎈 Introduction experiment
-- [Notebook](notebooks/first_xp.ipynb)
 
 ### 📈 Section 4.2 Experiments
 Execute the command below for experiments in Section 4.2:
