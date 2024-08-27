@@ -2,6 +2,8 @@
 
 This is an official implementation of the paper Numerical reliability of nonsmooth autodiff : a MaxPool case study. Please cite the paper and star this repo if you find this useful. Thanks!
 
+https://arxiv.org/abs/2401.02736
+
 ## Dependencies
 
 - [pytorch](https://pytorch.org) 
